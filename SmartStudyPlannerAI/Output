@@ -1,0 +1,55 @@
+PS C:\Users\prava\OneDrive\Desktop\SmartStudyPlannerAI> cd "C:\Users\prava\OneDrive\Desktop\SmartStudyPlannerAI"          
+PS C:\Users\prava\OneDrive\Desktop\SmartStudyPlannerAI> javac SmartStudyPlannerAI_Assistant.java
+>> java SmartStudyPlannerAI_Assistant
+>>
+ Hello! I?m your Smart Study Planner AI Assistant.
+Please enter your name: pravalika
+
+ Hi pravalika! How can I help you today?
+You can say things like:
+- create plan for 6 hours
+- show motivational quote
+- exit
+
+pravalika: ehtdfajdaj
+ Sorry, I didn?t get that. Try: 'create plan for X hours' or 'quote'.
+pravalika: create plan for 6 hours
+How many subjects do you want to plan for? 5
+Enter subject 1 name: ies
+Enter difficulty (Easy / Medium / Hard): medium
+Enter subject 2 name: spm
+Enter difficulty (Easy / Medium / Hard): hard
+Enter subject 3 name: da
+Enter difficulty (Easy / Medium / Hard): easy
+Enter subject 4 name: is
+Enter difficulty (Easy / Medium / Hard): hard
+Enter subject 5 name: cs
+Enter difficulty (Easy / Medium / Hard): median
+
+===== GENERATED STUDY PLAN =====
+ies (medium): 1.20 hours
+ AI Tip: Don?t watch the clock; do what it does. Keep going.
+
+spm (hard): 1.60 hours
+ AI Tip: Consistency is more important than intensity.
+
+da (easy): 0.80 hours
+ AI Tip: Consistency is more important than intensity.
+
+is (hard): 1.60 hours
+ AI Tip: Don?t watch the clock; do what it does. Keep going.
+
+cs (median): 0.80 hours
+ AI Tip: Don?t watch the clock; do what it does. Keep going.
+
+ Study plan saved to plan_pravalika.txt
+
+===== PERFORMANCE TRACKING =====
+Enter completion percentage for ies (0-100): 50
+Enter completion percentage for spm (0-100): 80
+Enter completion percentage for da (0-100): 40
+Enter completion percentage for is (0-100): 70
+Enter completion percentage for cs (0-100): 0
+ Performance saved in performance_pravalika.txt
+pravalika: exit
+ Goodbye, pravalika! Keep learning every day!
