@@ -1,0 +1,13 @@
+SMART STUDY PLANNER WITH AI SUGGESTIONS
+
+Date: 2025-11-12
+Total Study Hours: 3.0
+
+spm (hard): 2.00 hours
+AI Suggestion: Break complex topics into smaller goals.
+
+da (easy): 1.00 hours
+AI Suggestion: Keep revising lightly to maintain strength.
+
+------------------------------
+Total Allocated: 3.00 hours
